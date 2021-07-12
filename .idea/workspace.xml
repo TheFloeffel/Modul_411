@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc7e0c86-6c34-4afc-99dd-16275045b428" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/META-INF/Modul_411.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/MergeSort/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/MergeSort/mergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgaben/Fakultaet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgaben/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgaben/MinMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgaben/Summe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgaben/ZahlenListe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgabenrekursiv/Fakultaet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgabenrekursiv/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Rechnungsaufgabenrekursiv/Minimum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/SelectionSort/ListSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/SelectionSort/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Sternchenaufgabe/AnzahlSternchen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modul_411/Sternchenaufgabe/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Modul_411/Rechnungsaufgaben/FakultaetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Modul_411/SelectionSort/ListSortTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparableInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LB1/CheckPalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LB1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LB1/Pseudocode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LB1/CheckPalindromTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc7e0c86-6c34-4afc-99dd-16275045b428" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ComparableInterface/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -94,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
@@ -331,10 +304,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07074722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14424635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -363,6 +336,9 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="anpassung" />
     <option name="LAST_COMMIT_MESSAGE" value="anpassung" />
   </component>
@@ -560,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComparableInterface/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
