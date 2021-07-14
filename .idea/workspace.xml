@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc7e0c86-6c34-4afc-99dd-16275045b428" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LinkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoArrayDeque/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GGT/GGT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GGT/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPracc/GreedyAlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPracc/GreedySorty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPracc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LB2/Buch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LB2/GreedyBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LB2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LB2/Summe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LB3/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LB3/TicketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/GreedyPracc/GreedyAlgTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LB2/BuchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LB2/GreedyBuyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LB2/SummeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LB3/TeilnehmerlisteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LB3/TicketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul_411/BinarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul_411/BinarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul_411/BinarySearch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul_411/BinarySearch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreedyAlgorithm/Gegenstand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyAlgorithm/Gegenstand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LinkedList/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LinkedList/LinkedListTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,60 +37,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/LinkedList/LinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,27 +53,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sternchenaufgabe/Main.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgaben/ZahlenListe.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgaben/Minimum.java" />
-        <option value="$PROJECT_DIR$/test/Rechnungsaufgaben/FakultaetTest.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgaben/Main.java" />
-        <option value="$PROJECT_DIR$/src/SelectionSort/ListSort.java" />
-        <option value="$PROJECT_DIR$/test/SelectionSort/ListSortTest.java" />
-        <option value="$PROJECT_DIR$/src/SelectionSort/Main.java" />
-        <option value="$PROJECT_DIR$/src/Sternchenaufgabe/AnzahlSternchen.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgaben/MinMax.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgaben/Fakultaet.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgaben/Summe.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgabenrekursiv/Fakultaet.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgabenrekursiv/Minimum.java" />
-        <option value="$PROJECT_DIR$/src/Rechnungsaufgabenrekursiv/Main.java" />
         <option value="$PROJECT_DIR$/src/MergeSort/mergeSort.java" />
         <option value="$PROJECT_DIR$/src/MergeSort/Main.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/LinearSearch.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/binarySearch.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/Main.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/LB1/CheckPalindromIterativ.java" />
         <option value="$PROJECT_DIR$/test/LB1/CheckPalindromIterativTest.java" />
         <option value="$PROJECT_DIR$/src/LB1/Pseudocode.java" />
@@ -114,20 +71,45 @@
         <option value="$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandD.java" />
         <option value="$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandE.java" />
         <option value="$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandF.java" />
-        <option value="$PROJECT_DIR$/src/GreedyAlgorithm/Gegenstand.java" />
         <option value="$PROJECT_DIR$/src/GreedyAlgorithm/GreedyAlg.java" />
         <option value="$PROJECT_DIR$/src/GreedyAlgorithm/Main.java" />
-        <option value="$PROJECT_DIR$/test/GreedyAlgorithm/GreedyAlgTest.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/Node.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/Main.java" />
-        <option value="$PROJECT_DIR$/test/LinkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/GGT/Main.java" />
+        <option value="$PROJECT_DIR$/src/GGT/GGT.java" />
+        <option value="$PROJECT_DIR$/src/GreedyAlgorithm/Gegenstand.java" />
+        <option value="$PROJECT_DIR$/src/GreedyPracc/Main.java" />
+        <option value="$PROJECT_DIR$/test/GreedyAlgorithm/GreedyAlgTest.java" />
+        <option value="$PROJECT_DIR$/src/GreedyPracc/GreedySorty.java" />
+        <option value="$PROJECT_DIR$/src/GreedyPracc/GreedyAlg.java" />
+        <option value="$PROJECT_DIR$/test/GreedyPracc/GreedyAlgTest.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/Main.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/LB2/Main.java" />
+        <option value="$PROJECT_DIR$/src/LB2/GreedyBuy.java" />
+        <option value="$PROJECT_DIR$/test/LB2/GreedyBuyTest.java" />
+        <option value="$PROJECT_DIR$/src/LB2/Summe.java" />
+        <option value="$PROJECT_DIR$/test/LB2/SummeTest.java" />
+        <option value="$PROJECT_DIR$/test/LB2/BuchTest.java" />
+        <option value="$PROJECT_DIR$/src/LB2/Buch.java" />
+        <option value="$PROJECT_DIR$/src/DemoArrayDeque/Main.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/test/LinkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/LB3/Main.java" />
+        <option value="$PROJECT_DIR$/src/LB3/Element.java" />
+        <option value="$PROJECT_DIR$/src/LB3/Teilnehmer.java" />
+        <option value="$PROJECT_DIR$/test/LB3/TeilnehmerlisteTest.java" />
+        <option value="$PROJECT_DIR$/src/LB3/WaitingList.java" />
+        <option value="$PROJECT_DIR$/src/LB3/Ticket.java" />
+        <option value="$PROJECT_DIR$/test/LB3/TicketTest.java" />
+        <option value="$PROJECT_DIR$/src/LB3/TicketTest.java" />
+        <option value="$PROJECT_DIR$/src/LB3/Teilnehmerliste.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1414" />
+    <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -150,12 +132,29 @@
               <item name="Modul_411" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Modul411" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Modul_411" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LB3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Modul411" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Modul_411" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Modul411" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Modul_411" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="LB3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +162,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626097414337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626269810104" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -174,11 +173,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="LB3" />
+      <recent name="LB2" />
+      <recent name="GreedyPracc" />
       <recent name="LinkedList" />
       <recent name="GreedyAlgorithm" />
-      <recent name="LB1" />
-      <recent name="SelectionSort" />
-      <recent name="Rechnungsaufgaben" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -196,33 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreedyAlgorithm.Main" />
-      <module name="Modul_411" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GreedyAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Main" />
-      <module name="Modul_411" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TicketTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rechnungsaufgaben.Main" />
       <module name="Modul_411" />
@@ -236,49 +209,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyAlgTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LB3.TicketTest" />
       <module name="Modul_411" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GreedyAlgorithm.*" />
+          <option name="PATTERN" value="LB3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="GreedyAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="GreedyAlgorithm.GreedyAlgTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeilnehmerlisteTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Modul_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LB3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LB3" />
+      <option name="MAIN_CLASS_NAME" value="LB3.TeilnehmerlisteTest" />
+      <option name="METHOD_NAME" value="indexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeilnehmerlisteTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Modul_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LB3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LB3" />
+      <option name="MAIN_CLASS_NAME" value="LB3.TeilnehmerlisteTest" />
+      <option name="METHOD_NAME" value="isEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeilnehmerlisteTest.removeLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Modul_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LB3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LB3" />
+      <option name="MAIN_CLASS_NAME" value="LB3.TeilnehmerlisteTest" />
+      <option name="METHOD_NAME" value="removeLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Modul_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LB3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LB3" />
+      <option name="MAIN_CLASS_NAME" value="LB3.TicketTest" />
       <option name="METHOD_NAME" value="run" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreedyAlgTest.run20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Modul_411" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GreedyAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="GreedyAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="GreedyAlgorithm.GreedyAlgTest" />
-      <option name="METHOD_NAME" value="run20" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreedyAlgTest.run21" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Modul_411" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GreedyAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="GreedyAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="GreedyAlgorithm.GreedyAlgTest" />
-      <option name="METHOD_NAME" value="run21" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -286,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.GreedyAlgTest.run21" />
-        <item itemvalue="JUnit.GreedyAlgTest.run20" />
-        <item itemvalue="JUnit.GreedyAlgTest.run" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.TicketTest" />
+        <item itemvalue="JUnit.TicketTest.run" />
+        <item itemvalue="JUnit.TeilnehmerlisteTest.removeLast" />
+        <item itemvalue="JUnit.TeilnehmerlisteTest.indexOf" />
+        <item itemvalue="JUnit.TeilnehmerlisteTest.isEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -333,46 +335,52 @@
       <option name="project" value="LOCAL" />
       <updated>1626080924625</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="LinkedList added">
+      <created>1626097430181</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626097430181</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckPalindromTest_checkIterativeFalseUnevenLength - 2021.07.07 at 14h 56m 22s.xml">
-      <configuration name="CheckPalindromTest.checkIterativeFalseUnevenLength" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_indexOf - 2021.07.14 at 14h 02m 46s.xml">
+      <configuration name="TeilnehmerlisteTest.indexOf" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromTest_checkIterativeFalseGK - 2021.07.07 at 15h 00m 45s.xml">
-      <configuration name="CheckPalindromTest.checkIterativeFalseGK" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_indexOf - 2021.07.14 at 14h 06m 35s.xml">
+      <configuration name="TeilnehmerlisteTest.indexOf" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromTest_checkRecursiveFalseGK - 2021.07.07 at 15h 01m 38s.xml">
-      <configuration name="CheckPalindromTest.checkRecursiveFalseGK" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_removeLast - 2021.07.14 at 14h 19m 41s.xml">
+      <configuration name="TeilnehmerlisteTest.removeLast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromTest_checkIterativeTrue - 2021.07.07 at 15h 20m 02s.xml">
-      <configuration name="CheckPalindromTest.checkIterativeTrue" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_removeLast - 2021.07.14 at 14h 20m 14s.xml">
+      <configuration name="TeilnehmerlisteTest.removeLast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromTest_checkRecursiveTrue - 2021.07.07 at 15h 20m 32s.xml">
-      <configuration name="CheckPalindromTest.checkRecursiveTrue" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_removeLast - 2021.07.14 at 14h 20m 33s.xml">
+      <configuration name="TeilnehmerlisteTest.removeLast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedyAlgTest_run - 2021.07.12 at 11h 04m 27s.xml">
-      <configuration name="GreedyAlgTest.run" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_removeLast - 2021.07.14 at 14h 21m 55s.xml">
+      <configuration name="TeilnehmerlisteTest.removeLast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedyAlgTest_run20 - 2021.07.12 at 11h 05m 23s.xml">
-      <configuration name="GreedyAlgTest.run20" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_removeLast - 2021.07.14 at 14h 22m 34s.xml">
+      <configuration name="TeilnehmerlisteTest.removeLast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedyAlgTest_run21 - 2021.07.12 at 11h 05m 49s.xml">
-      <configuration name="GreedyAlgTest.run21" configurationId="JUnit" />
+    <history-entry file="TeilnehmerlisteTest_removeLast - 2021.07.14 at 14h 24m 15s.xml">
+      <configuration name="TeilnehmerlisteTest.removeLast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedyAlgTest_run21 - 2021.07.12 at 11h 06m 47s.xml">
-      <configuration name="GreedyAlgTest.run21" configurationId="JUnit" />
+    <history-entry file="TicketTest_run - 2021.07.14 at 15h 00m 16s.xml">
+      <configuration name="TicketTest.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedyAlgTest_run21 - 2021.07.12 at 11h 08m 05s.xml">
-      <configuration name="GreedyAlgTest.run21" configurationId="JUnit" />
+    <history-entry file="TicketTest_run - 2021.07.14 at 15h 02m 10s.xml">
+      <configuration name="TicketTest.run" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1414" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13589364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15316045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,7 +389,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3249453" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3238512" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3954496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,7 +397,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -399,6 +407,34 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.073926866" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32394367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3954496" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -407,7 +443,8 @@
     <MESSAGE value="anpassung" />
     <MESSAGE value="ComparableInterface added" />
     <MESSAGE value="Greedy added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greedy added" />
+    <MESSAGE value="LinkedList added" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList added" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -429,139 +466,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Fakultät/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/SelectionSort/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectionSort/ListSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sternchenaufgabe/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sternchenaufgabe/AnzahlSternchen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Rechnungsaufgaben/FakultaetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgaben/Summe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgaben/Fakultaet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgaben/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgabenrekursiv/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgabenrekursiv/Fakultaet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgabenrekursiv/Minimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgaben/ZahlenListe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSort/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechnungsaufgaben/MinMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSort/mergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="81" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/LinearSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LB1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LB1/CheckPalindrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -584,71 +488,67 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComparableInterface.java" />
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandF.java" />
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandE.java" />
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandD.java" />
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandC.java" />
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandB.java" />
+    <entry file="file://$PROJECT_DIR$/test/SelectionSort/ListSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComparableInterface/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="500">
+          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="64" />
           <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandE.java">
+    <entry file="file://$PROJECT_DIR$/src/MergeSort/mergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="81" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandD.java">
+    <entry file="file://$PROJECT_DIR$/src/GGT/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandC.java">
+    <entry file="file://$PROJECT_DIR$/src/GGT/GGT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_UBS_SW/jdk1.8.0_211/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_UBS_SW/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GreedyAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/Gegenstand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="e#318#319#0" expanded="true" />
             <element signature="e#352#353#0" expanded="true" />
@@ -662,61 +562,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GegenstandB.java">
+    <entry file="file://$PROJECT_DIR$/test/GreedyPracc/GreedyAlgTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComparableInterface/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="170">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/Gegenstand.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/LinearSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/SelectionSort/ListSortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="64" />
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GreedyPracc/GreedyAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GreedyPracc/GreedySorty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreedyAlgorithm/GreedyAlg.java">
+    <entry file="file://$PROJECT_DIR$/src/GreedyPracc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB2/GreedyBuy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LB2/GreedyBuyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -730,48 +651,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/GreedyAlgorithm/GreedyAlgTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ComparableInterface/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/Node.java">
+    <entry file="file://U:/Modul 411/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComparableInterface/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://U:/Modul 411/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LB2/BuchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
           <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/GreedyAlgorithm/GreedyAlgTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB2/Summe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LB2/SummeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB2/Buch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/LinkedList/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="18">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LB3/TeilnehmerlisteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/WaitingList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#142#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoArrayDeque/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#279#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LB3/TicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/Teilnehmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/Teilnehmerliste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/TicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LB3/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>

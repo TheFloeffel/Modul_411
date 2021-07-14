@@ -13,31 +13,34 @@ public class BinarySearch {
 
         System.out.println(java.util.Arrays.toString(list));
 
-        if (num == list[list.length/2]) {
+        if (list.length <=1 && list[0] != num) {
+            return -1;
+        }else {
 
-            index = list.length/2;
+            if (num == list[list.length / 2]) {
 
-            return index;
+                index = list.length / 2;
 
-        } else {
-
-            if (num < list[list.length/2]) {
-
-                half = Arrays.copyOfRange(list, 0, (list.length / 2));
-
-                search(half,num);
+                return index;
 
             } else {
 
-                half = Arrays.copyOfRange(list, (list.length / 2),0);
+                if (num < list[list.length / 2]) {
 
-                search(half,num);
+                    half = Arrays.copyOfRange(list, 0, (list.length / 2));
 
+                    return search(half, num);
+
+
+                } else {
+
+                    half = Arrays.copyOfRange(list, (list.length / 2), list.length);
+
+                    return (search(half, num) + list.length / 2);
+
+                }
             }
-
         }
-
-        return 0;
 
     }
 

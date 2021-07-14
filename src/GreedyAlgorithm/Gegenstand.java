@@ -51,8 +51,6 @@ public class Gegenstand implements Comparable<Gegenstand> {
 
         }
 
-
-
     }
 
 }

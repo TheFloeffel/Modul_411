@@ -10,7 +10,7 @@ public class Main {
       //  System.out.println(L1.search(list,12));
 
         BinarySearch B1 = new BinarySearch();
-        B1.search(list,5);
+        System.out.println(B1.search(list,15));
 
     }
 

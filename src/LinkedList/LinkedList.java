@@ -17,6 +17,12 @@ public class LinkedList {
         return templast;
     }
 
+// Get last value of list
+    public int getLastValue() {
+        int value = this.getLastNode().getValue();
+        return value;
+    }
+
 // Output all list values
     public void outWholeList() {
 
@@ -38,7 +44,7 @@ public class LinkedList {
     }
 
 // Add list element
-    public void add(int value) {
+    public boolean add(int value) {
 
         if (this.firstNode == null) {
 
@@ -51,7 +57,29 @@ public class LinkedList {
             this.getLastNode().setNext(tempnode);
 
         }
+        return true;
+    }
 
+    public boolean deleteAll(LinkedList ld) {
+
+        Node tempnode = firstNode;
+        Node nextnode;
+        boolean deleted = false;
+
+        while (tempnode != null) {
+
+            if (tempnode.getNext() != null) {
+                nextnode = tempnode.getNext();
+
+                tempnode = null;
+
+                tempnode = nextnode;
+            }else {
+                tempnode = null;
+                deleted = true;
+            }
+        }
+        return deleted;
     }
 
     public boolean delete(int value) {
@@ -77,6 +105,8 @@ public class LinkedList {
                     tempnode = null;
 
                     previousNode.setNext(null);
+
+                    return true;
                 }else {
 
                     if (tempnode.getValue() == value) {
